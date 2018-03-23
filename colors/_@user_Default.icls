@@ -4,11 +4,27 @@
     <property name="created">2017-09-21T15:51:42</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-09-21T21:26:03</property>
+    <property name="modified">2018-03-18T19:30:51</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0d30" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="ffdf88" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ffad39" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

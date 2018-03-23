@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/UnityTechnologies/PlaygroundProject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/DouglasUrner/CSA-FracCalc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Google Drive (dlu@canishe.com)/Game Design &amp; Programming/Projects/2D Apple Picker Prototype (Playground Project)/Setup" />
+    <option name="cloneParentDir" value="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Source/Teaching/CSA" />
   </component>
 </application>
